@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">First</string>
     <string name="testText">MyTextString</string>
-    <string name="b1Text">push 1</string>
-    <string name="b2Text">push 2</string>
+    <string name="b1Text">ADD</string>
+    <string name="b2Text">DEL</string>
 
 
 </resources>
