@@ -4,7 +4,5 @@
     <string name="b1Text">push 1</string>
     <string name="b2Text">push 2</string>
 
-    <string name="counter">
-        <integer name="count">0</integer>
-    </string>
+
 </resources>
